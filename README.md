@@ -16,9 +16,8 @@ This repository contains the implementation of a hybrid deep learning model that
    ```bash
    git clone https://github.com/your-username/hybrid-cnn-rnn-precipitation-prediction.git
    cd hybrid-cnn-rnn-precipitation-prediction
+   
 2. **Install the required packages:**
   ```bash
   Copy code
   pip install -r requirements.txt
-3. **Run the notebooks:**
-  You can run each notebook step-by-step in Jupyter Notebook or JupyterLab.
